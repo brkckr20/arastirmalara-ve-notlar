@@ -1,0 +1,14 @@
+https://michalsnik.github.io/aos/
+
+https://nosir.github.io/cleave.js/
+
+https://getflywheel.com/layout/best-javascript-libraries-frameworks-2020/
+
+https://webix.com/
+
+
+/*
+	CODEIGNITER SEO ULR
+
+	https://www.sourcecodester.com/tutorials/php/12190/how-create-seo-friendly-url-codeigniter.html
+*/
