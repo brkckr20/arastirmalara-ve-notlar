@@ -20,3 +20,4 @@ https://webix.com/
 	https://www.sourcecodester.com/tutorials/php/12190/how-create-seo-friendly-url-codeigniter.html
 */
 
+http://photonkit.com/components/
