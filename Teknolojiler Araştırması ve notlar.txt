@@ -1,3 +1,10 @@
+OWL-CAROUSEL
+MASTER SLİDER
+WOW.JS
+ANİMATE.CSS
+BOOTSTRAP
+SUMMERNOTE
+
 https://michalsnik.github.io/aos/
 
 https://nosir.github.io/cleave.js/
@@ -12,3 +19,4 @@ https://webix.com/
 
 	https://www.sourcecodester.com/tutorials/php/12190/how-create-seo-friendly-url-codeigniter.html
 */
+
