@@ -19,5 +19,9 @@ https://webix.com/
 
 	https://www.sourcecodester.com/tutorials/php/12190/how-create-seo-friendly-url-codeigniter.html
 */
-
+/* ELECTRON UYGULAMA TEMASI */
 http://photonkit.com/components/
+
+
+/* YENI PORTFOLIO SITESI */
+https://bridge264.qodeinteractive.com/?_ga=2.94882133.818889736.1611314841-2073377687.1611314841
