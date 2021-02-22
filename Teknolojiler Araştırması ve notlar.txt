@@ -4,6 +4,7 @@ WOW.JS
 ANİMATE.CSS
 BOOTSTRAP
 SUMMERNOTE
+CKEDİTOR
 
 https://michalsnik.github.io/aos/
 
