@@ -26,3 +26,5 @@ http://photonkit.com/components/
 
 /* YENI PORTFOLIO SITESI */
 https://bridge264.qodeinteractive.com/?_ga=2.94882133.818889736.1611314841-2073377687.1611314841
+
+http://blueimp.github.io/jQuery-File-Upload/ ------ çoklu dosya yükleme
